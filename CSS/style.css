@@ -1,0 +1,12 @@
+body{
+  background-color: #02061d;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+  background-color: #02061d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: ghostwhite;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
